@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToyStore", "ToyStore\ToyStore.csproj", "{3C784EBE-DFB9-4483-A594-C18FB3A0F0A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyStore.Core", "ToyStore.Core\ToyStore.Core.csproj", "{E36C5E17-EF3D-4A1F-B5C9-29B3C79325B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C784EBE-DFB9-4483-A594-C18FB3A0F0A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C784EBE-DFB9-4483-A594-C18FB3A0F0A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C784EBE-DFB9-4483-A594-C18FB3A0F0A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C784EBE-DFB9-4483-A594-C18FB3A0F0A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E36C5E17-EF3D-4A1F-B5C9-29B3C79325B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E36C5E17-EF3D-4A1F-B5C9-29B3C79325B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E36C5E17-EF3D-4A1F-B5C9-29B3C79325B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E36C5E17-EF3D-4A1F-B5C9-29B3C79325B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C186C073-7919-4D02-B7FD-66E9E2371452}
+	EndGlobalSection
+EndGlobal

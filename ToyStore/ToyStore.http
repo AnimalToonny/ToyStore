@@ -1,0 +1,6 @@
+@ToyStore_HostAddress = http://localhost:5264
+
+GET {{ToyStore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
