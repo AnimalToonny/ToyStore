@@ -8,7 +8,7 @@ namespace ToyStore.Core.Models
 {
     public class Toy
     {
-       private const int MaxSize = 100;
+        public const int MaxSize = 100;
 
         private Toy(Guid id, string name, uint price)
         {

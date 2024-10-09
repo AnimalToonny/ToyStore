@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace ToyStore.DataAccess.Entities
 {
-    internal class ToyEntity
+    public class ToyEntity
     {
+        public Guid Id { get; set; }
+
+        public string Name { get; set; } = string.Empty;
+
+        public uint Price { get; set; }
     }
 }

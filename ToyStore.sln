@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToyStore", "ToyStore\ToySto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyStore.Core", "ToyStore.Core\ToyStore.Core.csproj", "{E36C5E17-EF3D-4A1F-B5C9-29B3C79325B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyStore.DataAccess", "ToyStore.DataAccess\ToyStore.DataAccess.csproj", "{07E4A2DE-2F99-4821-B441-1385B2616439}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E36C5E17-EF3D-4A1F-B5C9-29B3C79325B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E36C5E17-EF3D-4A1F-B5C9-29B3C79325B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E36C5E17-EF3D-4A1F-B5C9-29B3C79325B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07E4A2DE-2F99-4821-B441-1385B2616439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E4A2DE-2F99-4821-B441-1385B2616439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E4A2DE-2F99-4821-B441-1385B2616439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E4A2DE-2F99-4821-B441-1385B2616439}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
